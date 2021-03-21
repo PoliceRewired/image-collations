@@ -1,0 +1,12 @@
+knife
+knives
+machete
+zombie
+knifecrime
+weapon
+#stopandsearch
+kitchen
+point
+blade
+dangerous
+sharp
