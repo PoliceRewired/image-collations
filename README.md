@@ -20,7 +20,7 @@ Each group represents the collation of a subset of media retrieved from a number
 
 | group                     | contains |
 |---------------------------|----------|
-| `test-group-mps-taskforce`| Test data. [@mettaskforce](https://twitter.com/mpstaskforce) tweets matching keywords found in the knife keywords list. |
+| `test-group-met-taskforce`| Test data. [@mettaskforce](https://twitter.com/mpstaskforce) tweets matching keywords found in the knife keywords list. |
 
 ## Keyword lists
 
